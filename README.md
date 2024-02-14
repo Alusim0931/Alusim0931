@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👋Hi there!! I'm Raul Simarro
+
+## 🔎You can find me in
+- ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
+## About me
+🌱 Still Learning...
+📍 Nules, Spain
+👤 21 years old
+🖥️ Junior softwere developer
 
 <!--
 **Alusim0931/Alusim0931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
