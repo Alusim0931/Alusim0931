@@ -1,7 +1,7 @@
 # 👋Hi there!! I'm Raul Simarro
 
 ## 🔎You can find me in
-- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## About me
 🌱 Still Learning...
